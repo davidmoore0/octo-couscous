@@ -1,2 +1,2 @@
 # octo-couscous
-Project
+Like couscos but 8 of them. 
